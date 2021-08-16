@@ -1,2 +1,2 @@
-# AndroidStudio-RecyclerViewDemo-CarsImage
-Used Image for android studio project named 'RecyclerViewDemo'
+# AndroidStudio-RecyclerView-CarsImage
+Used Image for android studio projects based on RecyclerView
